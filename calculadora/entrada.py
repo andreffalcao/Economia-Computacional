@@ -1,3 +1,13 @@
+"""
+Projeto: Calculadora Modular com suporte a Números Complexos
+Autor: André Pinheiro Falcão
+Disciplina: Economia Computacional
+Descrição: Programa de linha de comando que implementa uma calculadora modular com suporte às quatro operações fundamentais e a números complexos.
+Versão: 1.0.0
+
+Módulo responsável pela leitura e validação das entradas do usuário.
+"""
+
 def ler_numero(mensagem):
     """
     Lê um número real ou complexo digitado pelo usuário.
